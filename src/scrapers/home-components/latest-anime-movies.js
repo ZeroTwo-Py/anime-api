@@ -1,7 +1,7 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
 
-const URL = "https://animesalt.top"; // replace with actual page URL
+const URL = "https://animesalt.me"; // replace with actual page URL
 
 async function scrapeAnimeMovies() {
   try {
